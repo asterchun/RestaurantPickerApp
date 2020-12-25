@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestaurantPicker</string>
+    <string name="address_button_text">Input your address</string>
+    <string name="quiz_button_text">Let us decide for you</string>
+    <string name="swipe_button_text">Pick with friends</string>
+
+</resources>

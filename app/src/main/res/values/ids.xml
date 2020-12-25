@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="UserButton" type="id" />
+    <item name="QuizButton" type="id" />
+    <item name="FriendsButton" type="id" />
+    <item name="AppName" type="id" />
+</resources>
