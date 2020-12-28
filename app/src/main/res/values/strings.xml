@@ -3,5 +3,6 @@
     <string name="address_button_text">Input your address</string>
     <string name="quiz_button_text">Let us decide for you</string>
     <string name="swipe_button_text">Pick with friends</string>
-
+    <string name="input_address_hint">Enter your address</string>
+    <string name="input_button_text">Search</string>
 </resources>
