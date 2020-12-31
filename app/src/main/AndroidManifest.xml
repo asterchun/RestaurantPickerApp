@@ -12,25 +12,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RestaurantPicker">
+        <activity
+            android:name=".AdvancedOptions"
+            android:label="@string/title_activity_advanced_options"></activity>
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="${yelpApiKey}" />
-        <activity android:name=".FriendsActivity"
+
+        <activity
+            android:name=".FriendsActivity"
             android:parentActivityName=".MainActivity">
+
             <!-- The meta-data tag is required if you support API level 15 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-        <activity android:name=".QuizActivity"
+        <activity
+            android:name=".QuizActivity"
             android:parentActivityName=".MainActivity">
+
             <!-- The meta-data tag is required if you support API level 15 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-        <activity android:name=".UserInputActivity"
+        <activity
+            android:name=".UserInputActivity"
             android:parentActivityName=".MainActivity">
+
             <!-- The meta-data tag is required if you support API level 15 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

@@ -1,8 +1,26 @@
 <resources>
-    <string name="app_name">RestaurantPicker</string>
+    <string name="app_name">What We Eatin?</string>
     <string name="address_button_text">Input your address</string>
     <string name="quiz_button_text">Let us decide for you</string>
     <string name="swipe_button_text">Pick with friends</string>
     <string name="input_address_hint">Enter your address</string>
     <string name="input_button_text">Search</string>
+    <string name="advanced_options">Advanced Options</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_advanced_options">AdvancedOptions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
